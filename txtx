@@ -1,0 +1,5 @@
+Create table xyz
+(
+id int
+name varchar
+)
